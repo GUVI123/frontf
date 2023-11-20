@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #e1e3eb;
+    width: 45%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+margin-left:400px ;
+border-radius: 60px; 
+height: 400px;
+
 }
 
 .App-logo {
@@ -35,4 +44,44 @@
   to {
     transform: rotate(360deg);
   }
+}
+.reg{
+  border-radius: 1px; 
+  background-color: rgba(152, 178, 178, 0.781);
+  height: 5px;
+  width: 5px;
+  background-color: rgb(193, 174, 174);
+  margin-right: 10px;
+}
+.log{
+  border-radius: 1px; 
+  background-color: rgb(193, 174, 174);
+  height: 5px;
+  width: 5px;
+  margin-right: 10px;
+
+}
+.for{
+  border-radius: 1px; 
+  background-color: rgb(193, 174, 174);
+  height: 5px;
+  width: 5px;
+  margin-right: 10px;
+
+
+}
+.res{
+  border-radius: 1px; 
+  background-color: rgb(193, 174, 174);
+  height: 5px;
+  width: 5px;
+  margin-right: 10px;
+
+}
+.out{
+  border-radius: 1px; 
+  background-color: rgb(193, 174, 174);
+  height: 5px;
+  width: 5px;
+
 }
